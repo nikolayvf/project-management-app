@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import "./Contact.css";
@@ -106,4 +104,3 @@ const Contact = () => {
 };
 
 export default Contact;
->>>>>>> 26f01f8 (new)
